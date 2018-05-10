@@ -1,2 +1,2 @@
 # EITtransnet
-#awe
+awe ma se kind
